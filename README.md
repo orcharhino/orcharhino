@@ -21,6 +21,6 @@ ATIX AG is a leading provider of Linux & Open Source solutions for data centers.
 
 In the meantime, more than 1,000 companies are among our customers and as a young, up-and-coming company, we have set ourselves a lot of goals for the future. Learn more about us and our business areas at http://www.atix.de.
 
-More information about orcharhino: http://www.orcharhino.com
-
-Checkout our source code contributions at http://www.github.com/ATIX-AG
+## Want to learn more about orcharhino?
+* More information about orcharhino: http://www.orcharhino.com
+* Checkout our source code contributions at http://www.github.com/ATIX-AG
