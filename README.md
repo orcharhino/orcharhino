@@ -4,7 +4,7 @@
 orcharhino is THE tool to automatically deploy in a datacenter server, perform configuration management, and always be up-2-date using patch management.
 
 ## How does orcharhino work?
-In orcharhino, several open source technologies are combined to achieve automation and standardization objectives. Orcharhino offers three core functions; Deployment, patch management, configuration management and more. All of course, enterprise-ready.
+In orcharhino, several open source technologies are combined to achieve automation and standardization objectives. orcharhino offers three core functions; Deployment, patch management, configuration management and more. All of course, enterprise-ready.
 
 ## Where is the advantage?
 * All in one solution out-of-the-box
@@ -19,8 +19,9 @@ In orcharhino, several open source technologies are combined to achieve automati
 ## Engineered & Powered by ATIX
 ATIX AG is a leading provider of Linux & Open Source solutions for data centers. We believe in open standards and deliver tailor-made Linux and open source solutions for your business success.
 
-In the meantime, more than 1,000 companies are among our customers and as a young, up-and-coming company, we have set ourselves a lot of goals for the future. Learn more about us and our business areas at http://www.atix.de.
+In the meantime, more than 1,000 companies are among our customers and as a young, up-and-coming company, we have set ourselves a lot of goals for the future. Learn more about us and our business areas at https://www.atix.de.
 
 ## Want to learn more about orcharhino?
-* More information about orcharhino: http://www.orcharhino.com
-* Checkout our source code contributions at http://www.github.com/ATIX-AG
+* More information about orcharhino: https://www.orcharhino.com and ATIX: https://www.atix.des
+* Have a look at the orcharhino documentation: https://docs.orcharhino.com
+* Checkout our source code contributions at https://www.github.com/ATIX-AG
