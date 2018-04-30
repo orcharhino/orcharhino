@@ -19,9 +19,9 @@ In orcharhino, several open source technologies are combined to achieve automati
 ## Engineered & Powered by ATIX
 ATIX AG is a leading provider of Linux & Open Source solutions for data centers. We believe in open standards and deliver tailor-made Linux and open source solutions for your business success.
 
-In the meantime, more than 1,000 companies are among our customers and as a young, up-and-coming company, we have set ourselves a lot of goals for the future. Learn more about us and our business areas at https://www.atix.de.
+In the meantime, more than 1,000 companies are among our customers and as a young, up-and-coming company, we have set ourselves a lot of goals for the future. Learn more about us and our business areas at https://www.atix.de
 
 ## Want to learn more about orcharhino?
-* More information about orcharhino: https://www.orcharhino.com and ATIX: https://www.atix.des
+* More information about orcharhino: https://www.orcharhino.com and ATIX: https://www.atix.de
 * Have a look at the orcharhino documentation: https://docs.orcharhino.com
 * Checkout our source code contributions at https://www.github.com/ATIX-AG
