@@ -76,3 +76,5 @@ More than 1,000 companies are among our customers and as a young, up-and-coming 
 * [orcharhino.com](https://orcharhino.com/) and [atix.de](https://atix.de/en/)
 * [orcharhino documentation](https://docs.orcharhino.com/or/docs/index.html)
 * source code contributions on [github.com/ATIX-AG](https://github.com/ATIX-AG)
+* Twitter: https://twitter.com/orcharhino & https://twitter.com/atixag
+
